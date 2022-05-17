@@ -1,0 +1,14 @@
+Index	Variant	Region, subregion, country or area *	Notes	Country code	Type	Parent code	Reference date (as of 1 July)	0-4	5-9	10-14	15-19	20-24	25-29	30-34	35-39	40-44	45-49	50-54	55-59	60-64	65-69	70-74	75-79	80-84	85-89	90-94	95-99	100+
+both
+1650	Estimates	Kazakhstan		398	Country/Area	5500	2020	  1 920	  1 948	  1 604	  1 117	  1 100	  1 473	  1 658	  1 336	  1 184	  1 103	   978	  1 062	   811	   628	   320	   233	   216	   62	   23	   3	   0
+male
+1650	Estimates	Kazakhstan		398	Country/Area	5500	2020	   990	  1 001	   825	   572	   564	   740	   815	   666	   581	   534	   459	   485	   353	   248	   119	   74	   64	   17	   5	   0	   0
+female
+1650	Estimates	Kazakhstan		398	Country/Area	5500	2020	   930	   947	   779	   545	   536	   733	   843	   670	   603	   569	   519	   576	   458	   380	   201	   159	   152	   45	   18	   3	   0
+
+
+https://population.un.org/wpp/Download/Standard/Population/
+
+WPP2019_POP_F07_2_POPULATION_BY_AGE_MALE.xlsx
+WPP2019_POP_F07_3_POPULATION_BY_AGE_FEMALE.xlsx
+WPP2019_POP_F07_1_POPULATION_BY_AGE_BOTH_SEXES.xlsx
